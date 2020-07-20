@@ -18,7 +18,7 @@ from tensorflow.keras.preprocessing import image
 import streamlit as st
 
 
-PATH = "/Users/camngn/Downloads/Coding_projects/PyCharm_Projects/TensorFlow/"
+PATH = "model-weights/"
 WEIGHTS = "cat_classifier_model.h5"
 CLASS_DICT = {
     0: 'domestic short hair',
