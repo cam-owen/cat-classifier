@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run app.py
+web: sh setup.sh && streamlit run cat_classifier_app.py
